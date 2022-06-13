@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning the Django framework and Webpack in-depth towards implementing features for my current company, Hyperiondev.
 - 💞️ I’m looking to collaborate on projects that are lacking some features
 - 📫 How to reach me:
-   work email: ridhaac@hyperiondev.com
-   private email: ridhaadev@gmail.com
+ email: ridhaadev@gmail.com
 
 <!---
 ridhaaDev/ridhaaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
